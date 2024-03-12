@@ -1,0 +1,4 @@
+(executable
+ (public_name aoc)
+ (name day04)
+ (libraries aoc core fmt))
